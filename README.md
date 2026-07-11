@@ -60,4 +60,4 @@ Business Insights
 
 ## Dashboard
 
-![Customer Behavior Dashboard](Images/Dashboard.png)
+![Customer Behavior Dashboard](Customer_Behavior_Analysis/Images/Dashboard.png)
