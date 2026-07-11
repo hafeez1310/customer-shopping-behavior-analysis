@@ -4,7 +4,7 @@
 
 Analyze customer shopping behavior using Python, MySQL, and Power BI to uncover spending patterns, customer segmentation, subscription trends, and product performance. The project demonstrates a complete analytics workflow from data cleaning to interactive dashboard development.
 
-##Tech Stack
+## Tech Stack
 - Python
 - Pandas
 - MySQL
@@ -12,7 +12,7 @@ Analyze customer shopping behavior using Python, MySQL, and Power BI to uncover 
 - Power BI
 - Jupyter Notebook
 
-##Dataset
+## Dataset
 - Records: 3,900
 - Features: 18
 - Customer demographics
@@ -40,7 +40,7 @@ Power BI Dashboard
 Business Insights
 ```
 
-##Business Questions Solved
+## Business Questions Solved
 - Revenue by Gender
 - Revenue by Age Group
 - Sales by Category
@@ -50,7 +50,7 @@ Business Insights
 - Top Products
 - Shipping Analysis 
 
-##Key Insights
+## Key Insights
 -Analyzed 3,900 customer transactions generating $233K+ in revenue.
 -Male customers contributed 67.7% of total revenue.
 -Clothing generated 44.7% of total revenue.
